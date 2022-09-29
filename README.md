@@ -7,7 +7,8 @@ A website that offers fitness training services.
 * HTML
 * CSS
 
-## Website
+## Website:
+https://micha2791.github.io/run-buddy/
 
 
 ## Contribution
